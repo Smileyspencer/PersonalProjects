@@ -1,0 +1,51 @@
+body{
+	background-color: #cccccc;
+	background-image: url("Snow_2.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 1px 2px #F377A5;
+	padding-left:14px;
+
+}
+h2.body{
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 1px 2px #F377A5;
+	text-align: center;
+}
+th.head{
+	font-family: 'Pacifico', cursive;
+	padding: 15px;
+	width: 14%;
+	border-radius: 10px;
+}
+th.head:hover{
+	font-family: 'Pacifico', cursive;
+	padding: 15px;
+	width: 14%;
+	opacity:0.5;
+}
+table.head{
+	background: lightblue; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left top, lightblue, blue ); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(bottom right, lightblue, blue ); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(bottom right, lightblue, blue ); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, lightblue, blue );
+	opacity: .8;
+	border-radius:12px;
+
+}
+table.body{
+	width:100%;
+	
+}
+th.body{
+	
+	width:100%;
+}
+td.body
+{
+	
+}
